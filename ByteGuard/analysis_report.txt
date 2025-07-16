@@ -1,0 +1,10 @@
+=== AI-Powered Wi-Fi Security Analysis ===
+Total hosts analyzed: 12000
+Risky hosts detected: 7101 (59.17%)
+
+Recommended Actions:
+- Investigate hosts with high vulnerability scores.
+- Review critical services open on risky hosts (HTTP, SSH, RDP).
+- Check unusual geo-locations and Snort alerts.
+- Reduce open ports where not required.
+- Schedule follow-up vulnerability scans.
